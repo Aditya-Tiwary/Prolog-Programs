@@ -1,0 +1,7 @@
+predicates
+go
+clauses
+go:-X=10,
+write(X),
+nl,X=20,
+write(X),nl.

@@ -1,0 +1,6 @@
+predicates
+fun(integer,integer)
+clauses
+fun(Y,1):-Y<3,!.
+fun(Y,2):-Y>3,Y<=10,!.
+fun(Y,3):-Y>10,!.

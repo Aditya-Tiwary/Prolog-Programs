@@ -1,0 +1,9 @@
+domains
+x=integer
+list=integer*
+predicates
+append(x,list,list)
+clauses
+append(X,[],[X]).
+append(X,[H|T],[H|T1]):-
+append(X,T,T1).

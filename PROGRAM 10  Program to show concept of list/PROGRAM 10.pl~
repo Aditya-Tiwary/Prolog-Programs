@@ -1,0 +1,9 @@
+domains
+    name = symbol*
+
+predicates
+    itnames(name)
+
+clauses
+    itnames([ram, kapil, shweta]).
+    itnames([ram, shweta, kapil]).
