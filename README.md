@@ -4,18 +4,18 @@ This repository contains a collection of Prolog programs that demonstrate variou
 
 ## Contents
 
-1. [Program 1 - Adding Two Numbers](./program1.pl)
-2. [Program 2 - Categorising Animal Characteristics](./program2.pl)
-3. [Program 3 - Reading Person's Address (Using Compound Variable)](./program3.pl)
-4. [Program 4 - Fun with the Cut Operator](./program4.pl)
-5. [Program 5 - Counting Elements in a List](./program5.pl)
-6. [Program 6 - Reversing a List](./program6.pl)
-7. [Program 7 - Appending an Integer to a List](./program7.pl)
-8. [Program 8 - Replacing an Integer in a List](./program8.pl)
-9. [Program 9 - Deleting an Integer from a List](./program9.pl)
-10. [Program 10 - Understanding Lists](./program10.pl)
-11. [Program 11 - Family Relationship Demonstration](./program11.pl)
-12. [Program 12 - Working with Integer Variables in Prolog](./program12.pl)
+1. [Program 1 - Adding Two Numbers](./PROGRAM%201.pl)
+2. [Program 2 - Categorising Animal Characteristics](./PROGRAM%202.pl)
+3. [Program 3 - Reading Person's Address (Using Compound Variable)](./PROGRAM%203.pl)
+4. [Program 4 - Fun with the Cut Operator](./PROGRAM%204.pl)
+5. [Program 5 - Counting Elements in a List](./PROGRAM%205.pl)
+6. [Program 6 - Reversing a List](./PROGRAM%206.pl)
+7. [Program 7 - Appending an Integer to a List](./PROGRAM%207.pl)
+8. [Program 8 - Replacing an Integer in a List](./PROGRAM%208.pl)
+9. [Program 9 - Deleting an Integer from a List](./PROGRAM%209.pl)
+10. [Program 10 - Understanding Lists](./PROGRAM%2010.pl)
+11. [Program 11 - Family Relationship Demonstration](./PROGRAM%2011.pl)
+12. [Program 12 - Working with Integer Variables in Prolog](./PROGRAM%2012.pl)
 
 ## Screenshots
 
