@@ -17,9 +17,33 @@ This repository contains a collection of Prolog programs that demonstrate variou
 11. [Program 11 - Family Relationship Demonstration](./PROGRAM%2011%20%20Program%20to%20demonstrate%20family%20relationship/PROGRAM%2011.pl)
 12. [Program 12 - Working with Integer Variables in Prolog](./PROGRAM%2012%20%20Program%20to%20show%20how%20integer%20variable%20is%20used%20in%20prolog%20program/PROGRAM%2012.pl)
 
-## Screenshots
+## Output Screenshots
 
-Screenshots of the output for each program are available inside their respective folders. Please navigate to each program's folder to see the screenshots.
+PROGRAM 1  Program to add two numbers
+![PROGRAM 1](https://github.com/Aditya-Tiwary/Prolog-Programs/assets/83766476/a0c35f08-3280-4a5f-809f-ae671798c0a8)
+PROGRAM 2 Program to categorise animal characteristics
+![PROGRAM 2](https://github.com/Aditya-Tiwary/Prolog-Programs/assets/83766476/9a3bff39-a0d4-4441-b02a-41371cd941f0)
+PROGRAM 3  Program to read address of a person using compound variable
+![PROGRAM 3](https://github.com/Aditya-Tiwary/Prolog-Programs/assets/83766476/703830d1-4e43-47fd-8f61-c226521c2803)
+PROGRAM 4  Program of fun to show concept of cut operator
+![PROGRAM 4](https://github.com/Aditya-Tiwary/Prolog-Programs/assets/83766476/4568228c-6747-4051-800e-9991aae893c5)
+PROGRAM 5  Program to count number of elements in a list
+![PROGRAM 5](https://github.com/Aditya-Tiwary/Prolog-Programs/assets/83766476/86479d60-0e31-4946-8419-dc69ce67d3e4)
+PROGRAM 6  Program to reverse the list
+![PROGRAM 6](https://github.com/Aditya-Tiwary/Prolog-Programs/assets/83766476/072316bc-25bb-46e2-b024-5e7f080c3018)
+PROGRAM 7  Program to append an integer into the list
+![PROGRAM 7](https://github.com/Aditya-Tiwary/Prolog-Programs/assets/83766476/c9bad67e-1891-4288-a63c-0bbf0ad91e73)
+PROGRAM 8 Program to replace an integer from the list
+![PROGRAM 8](https://github.com/Aditya-Tiwary/Prolog-Programs/assets/83766476/9279fef9-4ae4-4865-ada4-369c1dcd7fc9)
+PROGRAM 9  Program to delete an integer from the list
+![PROGRAM 9](https://github.com/Aditya-Tiwary/Prolog-Programs/assets/83766476/4b79590e-2d50-4d77-95f6-1e351be8ba55)
+PROGRAM 10  Program to show concept of list
+![PROGRAM 10](https://github.com/Aditya-Tiwary/Prolog-Programs/assets/83766476/8edc315f-5cce-4337-b976-83a4612106f7)
+PROGRAM 11  Program to demonstrate family relationship
+![PROGRAM 11](https://github.com/Aditya-Tiwary/Prolog-Programs/assets/83766476/eeb72f79-6e6e-448f-8511-9ed766a7e00e)
+PROGRAM 12  Program to show how integer variable is used in prolog program
+![PROGRAM 12](https://github.com/Aditya-Tiwary/Prolog-Programs/assets/83766476/3d3cb622-77ba-49f9-95e5-4f5859e2db33)
+
 
 ## How to Run
 
